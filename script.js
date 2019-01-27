@@ -40,7 +40,7 @@ chart.on('draw', (data) => {
 
             image.animate({
              opacity: {
-                begin: 970,
+                begin: 950,
                 dur: 160,
                 from: 0,
                 to: 1,
@@ -50,7 +50,7 @@ chart.on('draw', (data) => {
 
         data.element.animate({
             y2: {
-                dur: 400 * data.value.y/1.75, // Make the duration dependent on the y value
+                dur: 400 * data.value.y/2, // Make the duration dependent on the y value
                 from: data.y1,
                 to: data.y2,
                 easing: Chartist.Svg.Easing.easeOutExpo
