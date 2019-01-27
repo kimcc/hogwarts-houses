@@ -1,0 +1,101 @@
+:root {
+	--background-color: #302E49;
+	--line-color: rgba(255,255,255,.12);
+	--font-color: rgba(255,255,255,.8);
+	--label-color: rgba(255,255,255,.70);
+
+	--gryffindor-color: #C34942;
+	--hufflepuff-color: #C88E4C;
+	--slytherin-color: #05A37D;
+	--ravenclaw-color: #269FBA;
+}
+
+
+html {
+	font-family: 'EB Garamond', serif;
+	background-color: var(--background-color);
+	color: var(--font-color);
+	text-transform: uppercase;
+	/* Make the text less fuzzy */
+	-webkit-font-smoothing: antialiased; 
+}
+
+h1 {
+	text-align: center;
+	padding-top: 40px;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	font-weight: normal;
+}
+
+.h {
+	margin-right: -0.06em;
+}
+
+.o {
+	margin-right: -0.015em;
+}
+
+.g {
+	margin-right: -0.041em;
+}
+
+.w {
+	margin-right: -0.12em;
+}
+
+.o2 {
+	margin-right: -0.035em;
+}
+
+.container {
+	padding-top: 40px;
+	max-width: 912px;
+	margin: 0 auto;
+}
+
+.ct-chart-bar {
+	overflow: visible;
+}
+
+.ct-grid {
+	stroke-dasharray: 0px;
+	stroke: var(--line-color);
+}
+
+.ct-label {
+	color: var(--label-color);
+	font-weight: normal;
+}
+
+.ct-series .ct-bar {
+  stroke-width: 68px;
+}
+
+.ct-series-a .ct-bar {
+  stroke: var(--gryffindor-color);
+}
+
+.ct-series-b .ct-bar {
+  stroke: var(--hufflepuff-color);
+}
+
+.ct-series-c .ct-bar {
+  stroke: var(--slytherin-color);
+}
+
+.ct-series-d .ct-bar {
+  stroke: var(--ravenclaw-color);
+}
+
+.ct-label.ct-vertical.ct-start {
+	transform: translate(-14px,8px);
+	font-size: 18px;
+}
+
+.ct-label.ct-horizontal.ct-end {
+	transform: translateY(14px);
+	position: relative;
+	font-size: 16px;
+	letter-spacing: 0.08em;
+}
