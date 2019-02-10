@@ -1,5 +1,6 @@
 # Hogwarts Houses
 https://kimcc.github.io/hogwarts-houses/
+(Chrome recommended)
 
 ![Finished bar chart](/../process/images/design9.gif)
 
