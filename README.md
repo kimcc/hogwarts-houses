@@ -40,8 +40,10 @@ I first tried having the bars appear in sequence.
 
 
 I ended up not liking that, so I did a different take with the bars appearing all at the same time.
+
 ![Design 8](/../process/images/design8.gif)
 
 
-Here's the final version with the trophy image added 🏆
+Finally, here's the final version with the trophy image added 🏆
+
 ![Design 9](/../process/images/design9.gif)
