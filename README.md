@@ -3,7 +3,7 @@
 
 
 ## Design
-I used [Figma](https://www.figma.com) to explore some different design directions.
+I used [Figma](https://www.figma.com) to explore the design.
 
 ![Design 1](/../process/images/design1.jpg)
 
