@@ -9,7 +9,7 @@ I used [Figma](https://www.figma.com) to explore some different design direction
 ![Design 2](/../process/images/design2.jpg)
 
 
-## Concept
+## Development
 I used [Chartist](https://gionkunz.github.io/chartist-js) to get started with the bar chart. This was an early version that didn't have the styling applied yet.
 
 ![Design 3](/../process/images/design3.jpg)
