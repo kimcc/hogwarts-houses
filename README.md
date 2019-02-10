@@ -1,7 +1,6 @@
 # Hogwarts Houses
 ![Finished bar chart](/../process/images/design9.gif)
 
-Read on if you're interested in learning about my process.
 
 ## Design
 I used [Figma](https://www.figma.com) to explore some different design directions.
