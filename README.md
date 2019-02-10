@@ -1,6 +1,8 @@
 # Hogwarts Houses
 ![Finished bar chart](/../process/images/design9.gif)
 
+Read on if you're interested in learning about my process.
+
 ## Design
 I used [Figma](https://www.figma.com) to explore some different design directions.
 
@@ -27,7 +29,7 @@ There we go. I fixed the y-axis so that it goes by twos and also has a bigger ma
 
 This was a test to see if I could add a custom shape to the top of the bar. Rather than spending time to design out the trophy image at this stage, I just made a simple polygon that I could then replace later.
 
-![Design 6](/../process/images/design5.jpg)
+![Design 6](/../process/images/design6.jpg)
 
 
 ## Animation
