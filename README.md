@@ -11,7 +11,7 @@ I used [Figma](https://www.figma.com) to explore the design.
 
 
 ## Development
-I used [Chartist](https://gionkunz.github.io/chartist-js) to get started with the bar chart. This was an early version that didn't have all of the styling applied yet.
+I used [Chartist](https://gionkunz.github.io/chartist-js) to handle the bar chart. This was an early version that didn't have all of the styling applied yet.
 
 ![Design 3](/../process/images/design3.jpg)
 
